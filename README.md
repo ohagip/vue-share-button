@@ -42,7 +42,7 @@ lineShareData = {
 ```
 
 ---
-##Vue CLI npm script
+## Vue CLI npm script
 
 ### Compiles and hot-reloads for development
 ```
